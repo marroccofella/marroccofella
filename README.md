@@ -35,7 +35,10 @@ $ echo $((0x2A))
 
 | Artifact | Nature |
 | --- | --- |
-| [skills](https://github.com/marroccofella/skills) | Portable cross-harness Agent Skills — OAuth-only multi-LLM peer code review |
+| [skills](https://github.com/marroccofella/skills) | Portable cross-harness Agent Skills — MOMM multi-model peer review, repo publishing, self-playing task loops, local voice cloning, travel booking and Yorkshire dialect |
+| [britannic-atlas](https://github.com/marroccofella/britannic-atlas) | A living, source-verified knowledge atlas of the British world, with the Mannin Isle of Man answer engine |
+| [games](https://github.com/marroccofella/games) | 42.uk Arcade — FREEL\*ADER 42, @TEROIDS, Crumble Invaders and MOMM-MAN |
+| [jacko](https://github.com/marroccofella/jacko) | Tetris in a Yorkshire oven that turns |
 | [42](https://github.com/marroccofella/42) | Promptus Media Lab — AI-powered video editing cue studio |
 | [ateroids](https://github.com/marroccofella/ateroids) | @TEROIDS — arcade word & number shooter |
 
